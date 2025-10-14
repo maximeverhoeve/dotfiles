@@ -103,6 +103,7 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="nvim ~/.zshrc"
 alias lg="lazygit"
 alias hyprconfig="nvim /home/devmax/.config/hypr/hyprland.conf"
+alias hyprkeybinds="nvim /home/devmax/.config/hypr/keybindings.conf"
 alias keydconfig="nvim /etc/keyd/default.conf"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 function y() {
